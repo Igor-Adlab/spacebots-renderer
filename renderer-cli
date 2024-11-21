@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+# Run your Node.js CLI tool and pass all arguments
+exec node ./main.js "$@"

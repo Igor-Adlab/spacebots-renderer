@@ -1,0 +1,26 @@
+{
+  "template": "split",
+
+  "isPaid": true,
+  "messageId": 86,
+  "language": "ru",
+  "chatId": 6133017300,
+
+  "position": "top",
+  "ratio": [50, 50],
+  "mainVideoVolume": 100,
+  "customAudioVolume": 50,
+  "backdropVideoVolume": 100,
+
+  "duration": 193,
+
+  "videoUrl": "https://zesty-rolypoly-92ef02.netlify.app/main_video.mp4",
+  "audioUrl": "https://api.telegram.org/file/bot7348267739:AAGxYU1ugh42BAIJuY6xWOWFvg6doeA7WvY/voice/file_8.oga",
+
+  "backdropStart": 10,
+  "backdropTypeId": "Minecrat",
+  "backdropVideoUrl": "https://zesty-rolypoly-92ef02.netlify.app/backdrop.mp4",
+  "onErrorCallbackUrl": "http://localhost:3000/webhooks/error",
+  "onSuccessCallbackUrl": "http://localhost:3000/webhooks/success",
+  "onProgressCallbackUrl": "http://localhost:3000/webhooks/progress"
+}

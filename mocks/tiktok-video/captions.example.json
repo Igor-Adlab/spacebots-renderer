@@ -1,0 +1,720 @@
+{
+  "videoUrl": "https://storage.googleapis.com/tgbotspacevideos/backdrops/Random/27ceb62a-10f6-46a1-be41-c37f506e7c3f",
+  "audioUrl": "https://storage.googleapis.com/tgbotspacevideos/audios/66a75062-aa1a-444c-a246-dd6585d5a9b9.wav",
+  "words": [
+    {
+      "word": "once",
+      "start": 0.16,
+      "end": 0.48,
+      "confidence": 0.99939525,
+      "punctuated_word": "Once"
+    },
+    {
+      "word": "upon",
+      "start": 0.48,
+      "end": 0.79999995,
+      "confidence": 0.9996673,
+      "punctuated_word": "upon"
+    },
+    {
+      "word": "a",
+      "start": 0.79999995,
+      "end": 0.96,
+      "confidence": 0.99942505,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "time",
+      "start": 0.96,
+      "end": 1.46,
+      "confidence": 0.96951944,
+      "punctuated_word": "time,"
+    },
+    {
+      "word": "in",
+      "start": 1.52,
+      "end": 1.76,
+      "confidence": 0.9995035,
+      "punctuated_word": "in"
+    },
+    {
+      "word": "a",
+      "start": 1.76,
+      "end": 2,
+      "confidence": 0.99976784,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "cozy",
+      "start": 2,
+      "end": 2.3999999,
+      "confidence": 0.9995598,
+      "punctuated_word": "cozy"
+    },
+    {
+      "word": "little",
+      "start": 2.3999999,
+      "end": 2.6399999,
+      "confidence": 0.980396,
+      "punctuated_word": "little"
+    },
+    {
+      "word": "house",
+      "start": 2.6399999,
+      "end": 3.04,
+      "confidence": 0.9998307,
+      "punctuated_word": "house"
+    },
+    {
+      "word": "nestled",
+      "start": 3.04,
+      "end": 3.4399998,
+      "confidence": 0.9969986,
+      "punctuated_word": "nestled"
+    },
+    {
+      "word": "near",
+      "start": 3.4399998,
+      "end": 3.6799998,
+      "confidence": 0.99931026,
+      "punctuated_word": "near"
+    },
+    {
+      "word": "a",
+      "start": 3.6799998,
+      "end": 3.84,
+      "confidence": 0.99973255,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "lush",
+      "start": 3.84,
+      "end": 4.16,
+      "confidence": 0.9998541,
+      "punctuated_word": "lush"
+    },
+    {
+      "word": "garden",
+      "start": 4.16,
+      "end": 4.66,
+      "confidence": 0.849144,
+      "punctuated_word": "garden,"
+    },
+    {
+      "word": "lived",
+      "start": 4.88,
+      "end": 5.12,
+      "confidence": 0.99893266,
+      "punctuated_word": "lived"
+    },
+    {
+      "word": "a",
+      "start": 5.12,
+      "end": 5.2799997,
+      "confidence": 0.99977404,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "clever",
+      "start": 5.2799997,
+      "end": 5.68,
+      "confidence": 0.9993418,
+      "punctuated_word": "clever"
+    },
+    {
+      "word": "bunny",
+      "start": 5.68,
+      "end": 6,
+      "confidence": 0.99662954,
+      "punctuated_word": "bunny"
+    },
+    {
+      "word": "named",
+      "start": 6,
+      "end": 6.3199997,
+      "confidence": 0.99894863,
+      "punctuated_word": "named"
+    },
+    {
+      "word": "whiskers",
+      "start": 6.3199997,
+      "end": 6.8199997,
+      "confidence": 0.9868236,
+      "punctuated_word": "Whiskers."
+    },
+    {
+      "word": "his",
+      "start": 7.52,
+      "end": 7.7599998,
+      "confidence": 0.9990701,
+      "punctuated_word": "His"
+    },
+    {
+      "word": "fur",
+      "start": 7.7599998,
+      "end": 8.08,
+      "confidence": 0.9966822,
+      "punctuated_word": "fur"
+    },
+    {
+      "word": "was",
+      "start": 8.08,
+      "end": 8.32,
+      "confidence": 0.99973637,
+      "punctuated_word": "was"
+    },
+    {
+      "word": "as",
+      "start": 8.32,
+      "end": 8.48,
+      "confidence": 0.9970958,
+      "punctuated_word": "as"
+    },
+    {
+      "word": "soft",
+      "start": 8.48,
+      "end": 8.8,
+      "confidence": 0.99994445,
+      "punctuated_word": "soft"
+    },
+    {
+      "word": "as",
+      "start": 8.8,
+      "end": 8.96,
+      "confidence": 0.9991316,
+      "punctuated_word": "as"
+    },
+    {
+      "word": "a",
+      "start": 8.96,
+      "end": 9.12,
+      "confidence": 0.9990891,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "cloud",
+      "start": 9.12,
+      "end": 9.62,
+      "confidence": 0.96360695,
+      "punctuated_word": "cloud,"
+    },
+    {
+      "word": "and",
+      "start": 9.76,
+      "end": 9.92,
+      "confidence": 0.9998938,
+      "punctuated_word": "and"
+    },
+    {
+      "word": "his",
+      "start": 9.92,
+      "end": 10.16,
+      "confidence": 0.99977154,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "nose",
+      "start": 10.16,
+      "end": 10.48,
+      "confidence": 0.9999541,
+      "punctuated_word": "nose"
+    },
+    {
+      "word": "twitched",
+      "start": 10.48,
+      "end": 10.88,
+      "confidence": 0.9947449,
+      "punctuated_word": "twitched"
+    },
+    {
+      "word": "with",
+      "start": 10.88,
+      "end": 11.04,
+      "confidence": 0.99991715,
+      "punctuated_word": "with"
+    },
+    {
+      "word": "excitement",
+      "start": 11.04,
+      "end": 11.54,
+      "confidence": 0.99997663,
+      "punctuated_word": "excitement"
+    },
+    {
+      "word": "whenever",
+      "start": 11.679999,
+      "end": 12,
+      "confidence": 0.99839765,
+      "punctuated_word": "whenever"
+    },
+    {
+      "word": "he",
+      "start": 12,
+      "end": 12.24,
+      "confidence": 0.9998697,
+      "punctuated_word": "he"
+    },
+    {
+      "word": "caught",
+      "start": 12.24,
+      "end": 12.48,
+      "confidence": 0.99986565,
+      "punctuated_word": "caught"
+    },
+    {
+      "word": "the",
+      "start": 12.48,
+      "end": 12.559999,
+      "confidence": 0.99982977,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "scent",
+      "start": 12.559999,
+      "end": 12.88,
+      "confidence": 0.99953985,
+      "punctuated_word": "scent"
+    },
+    {
+      "word": "of",
+      "start": 12.88,
+      "end": 13.04,
+      "confidence": 0.999835,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "fresh",
+      "start": 13.04,
+      "end": 13.36,
+      "confidence": 0.9998343,
+      "punctuated_word": "fresh"
+    },
+    {
+      "word": "fruits",
+      "start": 13.36,
+      "end": 13.679999,
+      "confidence": 0.9995964,
+      "punctuated_word": "fruits"
+    },
+    {
+      "word": "and",
+      "start": 13.679999,
+      "end": 13.92,
+      "confidence": 0.998607,
+      "punctuated_word": "and"
+    },
+    {
+      "word": "vegetables",
+      "start": 13.92,
+      "end": 14.42,
+      "confidence": 0.9998212,
+      "punctuated_word": "vegetables."
+    },
+    {
+      "word": "every",
+      "start": 15.355,
+      "end": 15.595,
+      "confidence": 0.99975187,
+      "punctuated_word": "Every"
+    },
+    {
+      "word": "morning",
+      "start": 15.595,
+      "end": 16.095001,
+      "confidence": 0.99288476,
+      "punctuated_word": "morning,"
+    },
+    {
+      "word": "just",
+      "start": 16.395,
+      "end": 16.635,
+      "confidence": 0.99980694,
+      "punctuated_word": "just"
+    },
+    {
+      "word": "as",
+      "start": 16.635,
+      "end": 16.795,
+      "confidence": 0.99988353,
+      "punctuated_word": "as"
+    },
+    {
+      "word": "the",
+      "start": 16.795,
+      "end": 17.035,
+      "confidence": 0.9992793,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "sun",
+      "start": 17.035,
+      "end": 17.275,
+      "confidence": 0.9988285,
+      "punctuated_word": "sun"
+    },
+    {
+      "word": "peeked",
+      "start": 17.275,
+      "end": 17.515,
+      "confidence": 0.7829939,
+      "punctuated_word": "peeked"
+    },
+    {
+      "word": "over",
+      "start": 17.515,
+      "end": 17.755,
+      "confidence": 0.99987113,
+      "punctuated_word": "over"
+    },
+    {
+      "word": "the",
+      "start": 17.755,
+      "end": 17.915,
+      "confidence": 0.99879754,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "horizon",
+      "start": 17.915,
+      "end": 18.415,
+      "confidence": 0.99939024,
+      "punctuated_word": "horizon,"
+    },
+    {
+      "word": "whiskers",
+      "start": 18.795,
+      "end": 19.275,
+      "confidence": 0.9164519,
+      "punctuated_word": "Whiskers"
+    },
+    {
+      "word": "would",
+      "start": 19.275,
+      "end": 19.515,
+      "confidence": 0.9991949,
+      "punctuated_word": "would"
+    },
+    {
+      "word": "tiptoe",
+      "start": 19.515,
+      "end": 19.915,
+      "confidence": 0.96187824,
+      "punctuated_word": "tiptoe"
+    },
+    {
+      "word": "out",
+      "start": 19.915,
+      "end": 20.154999,
+      "confidence": 0.99964917,
+      "punctuated_word": "out"
+    },
+    {
+      "word": "of",
+      "start": 20.154999,
+      "end": 20.235,
+      "confidence": 0.999265,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "his",
+      "start": 20.235,
+      "end": 20.475,
+      "confidence": 0.9994247,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "tiny",
+      "start": 20.475,
+      "end": 20.955,
+      "confidence": 0.99982196,
+      "punctuated_word": "tiny"
+    },
+    {
+      "word": "house",
+      "start": 20.955,
+      "end": 21.435,
+      "confidence": 0.9985789,
+      "punctuated_word": "house,"
+    },
+    {
+      "word": "his",
+      "start": 21.435,
+      "end": 21.675,
+      "confidence": 0.99981207,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "eyes",
+      "start": 21.675,
+      "end": 21.994999,
+      "confidence": 0.9997478,
+      "punctuated_word": "eyes"
+    },
+    {
+      "word": "twinkling",
+      "start": 21.994999,
+      "end": 22.475,
+      "confidence": 0.9993267,
+      "punctuated_word": "twinkling"
+    },
+    {
+      "word": "with",
+      "start": 22.475,
+      "end": 22.635,
+      "confidence": 0.99986064,
+      "punctuated_word": "with"
+    },
+    {
+      "word": "mischief",
+      "start": 22.635,
+      "end": 23.135,
+      "confidence": 0.9997779,
+      "punctuated_word": "mischief."
+    },
+    {
+      "word": "the",
+      "start": 23.595,
+      "end": 23.755001,
+      "confidence": 0.9998863,
+      "punctuated_word": "The"
+    },
+    {
+      "word": "garden",
+      "start": 23.755001,
+      "end": 24.235,
+      "confidence": 0.9991799,
+      "punctuated_word": "garden"
+    },
+    {
+      "word": "was",
+      "start": 24.235,
+      "end": 24.395,
+      "confidence": 0.9999174,
+      "punctuated_word": "was"
+    },
+    {
+      "word": "a",
+      "start": 24.395,
+      "end": 24.555,
+      "confidence": 0.9994956,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "paradise",
+      "start": 24.555,
+      "end": 25.055,
+      "confidence": 0.9992555,
+      "punctuated_word": "paradise"
+    },
+    {
+      "word": "overflowing",
+      "start": 25.275,
+      "end": 25.775,
+      "confidence": 0.9809511,
+      "punctuated_word": "overflowing"
+    },
+    {
+      "word": "with",
+      "start": 25.835,
+      "end": 26.075,
+      "confidence": 0.99977237,
+      "punctuated_word": "with"
+    },
+    {
+      "word": "juicy",
+      "start": 26.075,
+      "end": 26.555,
+      "confidence": 0.9833628,
+      "punctuated_word": "juicy"
+    },
+    {
+      "word": "carrots",
+      "start": 26.555,
+      "end": 27.055,
+      "confidence": 0.9994004,
+      "punctuated_word": "carrots,"
+    },
+    {
+      "word": "plump",
+      "start": 27.355,
+      "end": 27.675,
+      "confidence": 0.9897572,
+      "punctuated_word": "plump"
+    },
+    {
+      "word": "tomatoes",
+      "start": 27.675,
+      "end": 28.175,
+      "confidence": 0.99676645,
+      "punctuated_word": "tomatoes,"
+    },
+    {
+      "word": "crisp",
+      "start": 28.691313,
+      "end": 28.931313,
+      "confidence": 0.9964259,
+      "punctuated_word": "crisp"
+    },
+    {
+      "word": "lettuce",
+      "start": 28.931313,
+      "end": 29.431313,
+      "confidence": 0.98360705,
+      "punctuated_word": "lettuce,"
+    },
+    {
+      "word": "and",
+      "start": 29.571314,
+      "end": 29.891314,
+      "confidence": 0.999701,
+      "punctuated_word": "and"
+    },
+    {
+      "word": "the",
+      "start": 29.891314,
+      "end": 30.051313,
+      "confidence": 0.9994165,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "sweetest",
+      "start": 30.051313,
+      "end": 30.551313,
+      "confidence": 0.99907666,
+      "punctuated_word": "sweetest"
+    },
+    {
+      "word": "strawberries",
+      "start": 30.611313,
+      "end": 31.111313,
+      "confidence": 0.9923732,
+      "punctuated_word": "strawberries."
+    },
+    {
+      "word": "but",
+      "start": 31.891314,
+      "end": 32.21131,
+      "confidence": 0.8186847,
+      "punctuated_word": "But,"
+    },
+    {
+      "word": "alas",
+      "start": 32.21131,
+      "end": 32.71131,
+      "confidence": 0.99869263,
+      "punctuated_word": "alas,"
+    },
+    {
+      "word": "it",
+      "start": 32.771313,
+      "end": 32.931313,
+      "confidence": 0.999567,
+      "punctuated_word": "it"
+    },
+    {
+      "word": "was",
+      "start": 32.931313,
+      "end": 33.171314,
+      "confidence": 0.99996257,
+      "punctuated_word": "was"
+    },
+    {
+      "word": "owned",
+      "start": 33.171314,
+      "end": 33.411312,
+      "confidence": 0.9999491,
+      "punctuated_word": "owned"
+    },
+    {
+      "word": "by",
+      "start": 33.411312,
+      "end": 33.651314,
+      "confidence": 0.9998791,
+      "punctuated_word": "by"
+    },
+    {
+      "word": "a",
+      "start": 33.651314,
+      "end": 33.811314,
+      "confidence": 0.99780303,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "grumpy",
+      "start": 33.811314,
+      "end": 34.21131,
+      "confidence": 0.99992955,
+      "punctuated_word": "grumpy"
+    },
+    {
+      "word": "old",
+      "start": 34.21131,
+      "end": 34.53131,
+      "confidence": 0.98035675,
+      "punctuated_word": "old"
+    },
+    {
+      "word": "farmer",
+      "start": 34.53131,
+      "end": 35.011314,
+      "confidence": 0.99976116,
+      "punctuated_word": "farmer"
+    },
+    {
+      "word": "who",
+      "start": 35.011314,
+      "end": 35.251312,
+      "confidence": 0.74343383,
+      "punctuated_word": "who"
+    },
+    {
+      "word": "guarded",
+      "start": 35.251312,
+      "end": 35.571312,
+      "confidence": 0.99995506,
+      "punctuated_word": "guarded"
+    },
+    {
+      "word": "his",
+      "start": 35.571312,
+      "end": 35.811314,
+      "confidence": 0.9999039,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "precious",
+      "start": 35.811314,
+      "end": 36.291313,
+      "confidence": 0.999824,
+      "punctuated_word": "precious"
+    },
+    {
+      "word": "produce",
+      "start": 36.291313,
+      "end": 36.691315,
+      "confidence": 0.9998061,
+      "punctuated_word": "produce"
+    },
+    {
+      "word": "like",
+      "start": 36.691315,
+      "end": 36.931313,
+      "confidence": 0.9994041,
+      "punctuated_word": "like"
+    },
+    {
+      "word": "a",
+      "start": 36.931313,
+      "end": 37.091312,
+      "confidence": 0.99964595,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "hawk",
+      "start": 37.091312,
+      "end": 37.591312,
+      "confidence": 0.99977374,
+      "punctuated_word": "hawk."
+    }
+  ]
+}

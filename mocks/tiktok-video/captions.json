@@ -1,0 +1,14 @@
+{
+  "source": "text",
+  "text": "В космосе нет воздуха, а значит, звуковые волны там не могут распространяться. Но если бы вы оказались рядом с черной дырой, то услышали бы нечто похожее на «басовую музыку»! Ученые NASA обнаружили, что черная дыра в скоплении галактик Персей издает ультранизкие звуки, которые в 57 октав ниже ноты 'до' — слишком низкие для человеческого уха, но с помощью специального оборудования их можно уловить.",
+  "isPaid": true,
+  "messageId": 86,
+  "language": "ru",
+  "chatId": 6133017300,
+
+  "videoUrl": "https://storage.googleapis.com/tgbotspacevideos/backdrops/Random/27ceb62a-10f6-46a1-be41-c37f506e7c3f",
+
+  "onErrorCallbackUrl": "http://localhost:3000/webhooks/error",
+  "onSuccessCallbackUrl": "http://localhost:3000/webhooks/success",
+  "onProgressCallbackUrl": "http://localhost:3000/webhooks/progress"
+}

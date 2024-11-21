@@ -1,0 +1,46 @@
+steps:
+  # Step 1: Install dependencies and detect changes
+  - name: 'node:22'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        echo "Installing dependencies and NX globally"
+        npm install -g @nrwl/cli
+        yarn
+
+  # Build all services in the NX monorepo
+  - name: 'node:22'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        yarn nx reset && yarn nx run-many --target=build --all=true
+
+  # Conditionally build and push Docker images for apps
+  - name: 'gcr.io/cloud-builders/docker'
+    id: 'Build and Push Spacebots API'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        docker build -t us-central1-docker.pkg.dev/$PROJECT_ID/tgbot/space-renderer-job:$COMMIT_SHA -f ./Dockerfile .
+        docker push us-central1-docker.pkg.dev/$PROJECT_ID/tgbot/space-renderer-job:$COMMIT_SHA
+
+  # Deployment steps for bots if their images were built
+  - name: 'gcr.io/cloud-builders/gcloud'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        # Deploy Renderer job
+        gcloud run jobs deploy space-renderer-job \
+            --image=us-central1-docker.pkg.dev/$PROJECT_ID/tgbot/space-renderer-job:$COMMIT_SHA \
+            --region=europe-west4 \
+            --memory=8Gi \
+            --cpu=8 \
+            --max-retries=1 \
+            --task-timeout=900
+
+options:
+  logging: CLOUD_LOGGING_ONLY
